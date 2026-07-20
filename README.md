@@ -74,8 +74,4 @@ Passionate about building AI systems that go beyond prototypes and solve real pr
 
 ---
 
-<div align="center">
 
-📫 Reach me at **janhvisas@gmail.com**
-
-</div>
