@@ -14,7 +14,7 @@
 
 I'm a final-year B.Tech Computer Science Engineering (AI) student at Vishwakarma Institute of Information Technology, Pune, specialising in Machine Learning, Generative AI, Graph ML, Knowledge Graphs, Retrieval Systems, LLMs, and Agentic AI.
 
-Passionate about building AI systems that go beyond prototypes and solve real problems: from domain-specific LLM fine-tuning to multi-agent orchestration to multimodal product intelligence. I've won the CodeApex Hackathon 2026, and published research on AI-driven healthcare triage systems.
+Passionate about building AI systems that go beyond prototypes and solve real problems from domain-specific LLM fine-tuning to multi-agent orchestration to multimodal product intelligence. I've won the CodeApex Hackathon 2026, and published research on AI-driven healthcare triage systems.
 
 ---
 
@@ -25,23 +25,36 @@ Passionate about building AI systems that go beyond prototypes and solve real pr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-2C2C2C?style=for-the-badge)
+![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=for-the-badge)
+![NetworkX](https://img.shields.io/badge/NetworkX-282828?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![TigerGraph](https://img.shields.io/badge/TigerGraph-FF6600?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-3776AB?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
 </div>
 
@@ -58,15 +71,6 @@ Passionate about building AI systems that go beyond prototypes and solve real pr
 ## 🏆 Honors & Awards
 
 - 🥇 **Winner — CodeApex Hackathon 2026** for *Clover: Domain Intelligence Fine-Tuning Studio*
-
----
-
-## 📌 Pinned Projects
-*(GitHub shows these automatically once you pin repos — no need to write them by hand here, but a short line under each is a nice touch)*
-
-- **Clover** — No-code AI studio for fine-tuning Small Language Models (Qwen2.5-3B) using QLoRA + Unsloth, with a FastAPI + React + Supabase stack.
-- **WanderAI** — AI-powered travel itinerary and hotel recommendation platform with fault-tolerant multi-provider LLM orchestration.
-- **Medaid** — AI-based medical triage system for resource-constrained healthcare environments, published research.
 
 ---
 
