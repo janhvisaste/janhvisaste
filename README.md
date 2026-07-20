@@ -15,6 +15,7 @@
 I'm a final-year B.Tech Computer Science Engineering (AI) student at Vishwakarma Institute of Information Technology, Pune, specialising in Machine Learning, Generative AI, Graph ML, Knowledge Graphs, Retrieval Systems, LLMs, and Agentic AI.
 
 Passionate about building AI systems that go beyond prototypes and solve real problems from domain-specific LLM fine-tuning to multi-agent orchestration to multimodal product intelligence. I've published research on AI-driven healthcare triage systems.
+
 ---
 
 ## 🛠️ Tech Stack
